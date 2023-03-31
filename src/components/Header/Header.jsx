@@ -4,9 +4,9 @@ import "./Header.css"
 const Header = () => {
 
    return (
-      <dev className="container flex justify-between flex-col md:flex-row py-4 items-center ">
+      <dev className="container flex justify-between border-b-2 mb-5  flex-col md:flex-row py-5 items-center ">
          <div className="logo">
-            <a className="font-bold text-4xl" href="/home">News Cafe</a>
+            <a className="font-bold text-4xl" href="/home">Programming Cafe</a>
          </div>
          <nav >
             <a className="pr-5 font-bold   " href="/home">Home</a>

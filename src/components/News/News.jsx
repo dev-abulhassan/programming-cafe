@@ -48,7 +48,7 @@ const News = (props) => {
                </div>
             </div>
             <div className="read-time flex gap-2 items-center">
-               <p className='pr-3 font-light text-gray-900'>{readTime} min read</p>
+               <p className='pr-3 font-light text-gray-900 hover:underline transition-all cursor-pointer'>{readTime} min read</p>
                <button onClick={() => bookmarkHanlder(title)} ><FontAwesomeIcon icon={faBookmark} /></button>
             </div>
          </div>
@@ -56,12 +56,12 @@ const News = (props) => {
          <div className="tag py-4 px-4 md:flex  gap-2 font-light text-gray-500 ">
             {
                tags.map((item, i) =>
-                  <p key={i} >{item}</p>
+                  <p className='hover:text-gray-900 cursor-pointer' key={i} >{item}</p>
                )
 
             }
          </div>
-         <button onClick={() => timeCountHandle(readTime)} className='text-violet-600 pb-3 underline font-primary px-4 text-lg font-semibold'>Make as read</button>
+         <button onClick={() => timeCountHandle(readTime)} className='text-violet-500 pb-3 underline font-primary px-4 text-lg font-semibold hover:text-violet-800'>Make as read</button>
       </div>
    );
 };

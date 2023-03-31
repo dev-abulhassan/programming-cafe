@@ -16,8 +16,8 @@ const Blogs = () => {
 
 
    return (
-      <div className='container mx-auto flex gap-6'>
-         <div className='w-[65%]'>
+      <div className='container mx-auto md:flex gap-6 px-4'>
+         <div className='md:w-[65%]'>
             {
                blogs.map(blog => <News
                   key={blog.id}
@@ -29,7 +29,7 @@ const Blogs = () => {
                ></News>)
             }
          </div>
-         <div className='bookmark w-[35%]'>
+         <div className='bookmark md:w-[35%]'>
             <Bookmark 
             countTime={countTime}
             bookmark={bookmark}

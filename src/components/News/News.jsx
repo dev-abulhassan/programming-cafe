@@ -37,9 +37,9 @@ const News = (props) => {
 
 
    return (
-      <div className="container single-news border-b-2 mb-5">
-         <img className='rounded' src={image} alt="" />
-         <div className='flex justify-between items-center py-5'>
+      <div className="container mx-auto single-news border-b-2 mb-5">
+         <img className='rounded md:w-full w-11/12 mx-auto' src={image} alt="" />
+         <div className='flex justify-between items-center py-5 px-4'>
             <div className="author-info flex justify-between">
                <img className='w-[50px] rounded-full' src={avatar} alt="" />
                <div className="author-info pl-4">
@@ -52,8 +52,8 @@ const News = (props) => {
                <button onClick={() => bookmarkHanlder(title)} ><FontAwesomeIcon icon={faBookmark} /></button>
             </div>
          </div>
-         <h2 className='font-bold text-4xl font-primary py-3'>{title}</h2>
-         <div className="tag py-4 flex gap-2 font-light text-gray-500 ">
+         <h2 className='font-bold md:text-4xl text-xl px-4 font-primary py-3'>{title}</h2>
+         <div className="tag py-4 px-4 md:flex  gap-2 font-light text-gray-500 ">
             {
                tags.map((item, i) =>
                   <p key={i} >{item}</p>
@@ -61,7 +61,7 @@ const News = (props) => {
 
             }
          </div>
-         <button onClick={() => timeCountHandle(readTime)} className='text-violet-600 pb-3 underline font-primary text-lg font-semibold'>Make as read</button>
+         <button onClick={() => timeCountHandle(readTime)} className='text-violet-600 pb-3 underline font-primary px-4 text-lg font-semibold'>Make as read</button>
       </div>
    );
 };

@@ -5,36 +5,36 @@ const Footer = () => {
       <div className='pt-16 my-10 border md:px-3 px-4'>
          <h2 className='text-center font-bold text-4xl text-violet-600  py-3'>Blog Section</h2>
          <div className='py-4 px-3'>
-            <div tabIndex={0} className="collapse collapse-arrow border border-base-300 bg-base-100 rounded mb-4">
+            <div tabIndex={0} className="collapse collapse-arrow border border-violet-600  bg-base-100 rounded mb-4">
                <div className="collapse-title text-xl font-medium">
-                  Focus me to see content
+               what is the between props and state?
                </div>
                <div className="collapse-content">
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet minima, voluptatum impedit asperiores quasi dicta accusantium possimus perspiciatis perferendis voluptates sit aperiam nam facilis voluptatem dolorem? Ullam aliquid consequuntur id!</p>
+                  <p><i><strong>props</strong></i> are used to pass data from a parent component to a child component, while state is used to manage data within a component itself. Props are read-only and cannot be modified by the child component, while state is mutable and can be changed by the component itself.</p>
                </div>
             </div>
-            <div tabIndex={0} className="collapse collapse-arrow border border-base-300 bg-base-100 rounded mb-4">
+            <div tabIndex={1} className="collapse collapse-arrow border border-violet-600 bg-base-100 rounded mb-4">
                <div className="collapse-title text-xl font-medium">
-                  Focus me to see content
+               How does work useState?
                </div>
                <div className="collapse-content">
-                  <p>tabIndex={0} attribute is necessary to make the div focusable</p>
+                  <p><i><strong>useState</strong></i> is a built-in hook that allows functional components to have stateful behavior. It returns an array with two values: the current state and a function to update it. Hook takes an initial state value as an argument and returns an updated state value whenever the setter function is called.</p>
                </div>
             </div>
-            <div tabIndex={0} className="collapse collapse-arrow border border-base-300 bg-base-100 rounded mb-4">
+            <div tabIndex={2} className="collapse collapse-arrow border border-violet-600 bg-base-100 rounded mb-4">
                <div className="collapse-title text-xl font-medium">
-                  Focus me to see content
+               What else can useEffect do without data load?
                </div>
                <div className="collapse-content">
-                  <p>tabIndex={0} attribute is necessary to make the div focusable</p>
+                  <p><i><strong>useEffect</strong></i> hook in React is not limited to fetching data, but can also be used for managing the document title, event listeners, third-party libraries, animations, and timers.</p>
                </div>
             </div>
-            <div tabIndex={0} className="collapse collapse-arrow border border-base-300 bg-base-100 rounded mb-4">
+            <div tabIndex={3} className="collapse collapse-arrow border border-violet-600 bg-base-100 rounded mb-4">
                <div className="collapse-title text-xl font-medium">
-                  Focus me to see content
+               How Does React work?
                </div>
                <div className="collapse-content">
-                  <p>tabIndex={0} attribute is necessary to make the div focusable</p>
+                  <p><strong>ReactJS</strong> is a JavaScript library that uses a virtual DOM to efficiently update the UI of a web application. It allows developers to create reusable components that manage their own state, and supports declarative programming through JSX syntax. React is commonly used for building single-page applications and user interfaces.</p>
                </div>
             </div>
          </div>

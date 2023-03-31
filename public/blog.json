@@ -2,11 +2,11 @@
    {
       "_id": "6425b33834f5fb9eb416b352",
       "author_name": "Dev-Hassan",
-      "author_image": "https://picsum.photos/200",
+      "author_image": "https://media.licdn.com/dms/image/D5603AQGeyTQsgNtyyg/profile-displayphoto-shrink_800_800/0/1670772815652?e=1685577600&v=beta&t=oFG6FFJUtIsX1eI5nOKRwKm-JjOD38y7uNOhz_46Z7M",
       "blog_title": "Introduction to Machine Learning",
-      "cover_image": "https://picsum.photos/200",
-      "read_time": "10 minutes",
-      "publish_date": "Fri Mar 10 2023 00:54:09 GMT+0600 (Bangladesh Standard Time)",
+      "cover_image": "https://images.unsplash.com/photo-1550439062-609e1531270e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "read_time": "14 min read",
+      "publish_date": "Fri Mar 10 2023 ",
       "tags": [
          "machine learning",
          "artificial intelligence"
@@ -14,12 +14,12 @@
    },
    {
       "_id": "6425b338212fb17c2a11ab8f",
-      "author_name": "Dev-Hassan",
-      "author_image": "https://picsum.photos/200",
+      "author_name": "Elon Musk",
+      "author_image": "https://media.licdn.com/dms/image/D5603AQGeyTQsgNtyyg/profile-displayphoto-shrink_800_800/0/1670772815652?e=1685577600&v=beta&t=oFG6FFJUtIsX1eI5nOKRwKm-JjOD38y7uNOhz_46Z7M",
       "blog_title": "Introduction to Machine Learning",
-      "cover_image": "https://picsum.photos/200",
-      "read_time": "10 minutes",
-      "publish_date": "Mon Jan 02 2023 21:14:45 GMT+0600 (Bangladesh Standard Time)",
+      "cover_image": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "read_time": "17 min read",
+      "publish_date": "Mon Jan 02 2023 ",
       "tags": [
          "machine learning",
          "artificial intelligence"
@@ -27,12 +27,12 @@
    },
    {
       "_id": "6425b3384037240b8ba3193f",
-      "author_name": "Dev-Hassan",
-      "author_image": "https://picsum.photos/200",
+      "author_name": "Elvis Blevins",
+      "author_image": "https://media.licdn.com/dms/image/D5603AQGeyTQsgNtyyg/profile-displayphoto-shrink_800_800/0/1670772815652?e=1685577600&v=beta&t=oFG6FFJUtIsX1eI5nOKRwKm-JjOD38y7uNOhz_46Z7M",
       "blog_title": "Introduction to Machine Learning",
-      "cover_image": "https://picsum.photos/200",
-      "read_time": "10 minutes",
-      "publish_date": "Mon Feb 27 2023 13:40:22 GMT+0600 (Bangladesh Standard Time)",
+      "cover_image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "read_time": "11 min read",
+      "publish_date": "Mon Feb 27 2023",
       "tags": [
          "machine learning",
          "artificial intelligence"
@@ -40,12 +40,12 @@
    },
    {
       "_id": "6425b338f53f71513bc8befe",
-      "author_name": "Dev-Hassan",
-      "author_image": "https://picsum.photos/200",
+      "author_name": "Rosemary",
+      "author_image": "https://media.licdn.com/dms/image/D5603AQGeyTQsgNtyyg/profile-displayphoto-shrink_800_800/0/1670772815652?e=1685577600&v=beta&t=oFG6FFJUtIsX1eI5nOKRwKm-JjOD38y7uNOhz_46Z7M",
       "blog_title": "Introduction to Machine Learning",
-      "cover_image": "https://picsum.photos/200",
-      "read_time": "10 minutes",
-      "publish_date": "Sat Jan 28 2023 22:13:45 GMT+0600 (Bangladesh Standard Time)",
+      "cover_image": "https://images.unsplash.com/photo-1485856407642-7f9ba0268b51?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "read_time": "13 min read",
+      "publish_date": "Sat Jan 28 2023 ",
       "tags": [
          "machine learning",
          "artificial intelligence"

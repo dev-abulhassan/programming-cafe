@@ -5,10 +5,10 @@
       "avatar": "https://media.licdn.com/dms/image/D5603AQGeyTQsgNtyyg/profile-displayphoto-shrink_800_800/0/1670772815652?e=1685577600&v=beta&t=oFG6FFJUtIsX1eI5nOKRwKm-JjOD38y7uNOhz_46Z7M",
       "title": "How to get your first job as a self-taught programmer",
       "image": "https://images.unsplash.com/photo-1550439062-609e1531270e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-      "readTime": 14,
+      "readTime": 7,
       "date": "Fri Mar 10 2023 ",
       "tags": [
-         "#machine learning",
+         "#reactJS",
          "#artificial intelligence"
       ]
    },
@@ -16,12 +16,12 @@
       "id": "6425b338212fb17c2a11ab8f",
       "author": "Elon Musk",
       "avatar": "https://media.licdn.com/dms/image/D5603AQGeyTQsgNtyyg/profile-displayphoto-shrink_800_800/0/1670772815652?e=1685577600&v=beta&t=oFG6FFJUtIsX1eI5nOKRwKm-JjOD38y7uNOhz_46Z7M",
-      "title": "Introduction to Machine Learning 2",
+      "title": "Learn to become a modern node.js developer",
       "image": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-      "readTime": 17,
+      "readTime": 3,
       "date": "Mon Jan 02 2023 ",
       "tags": [
-         "#machine learning",
+         "#nodeJs",
          "#artificial intelligence"
       ]
    },
@@ -29,9 +29,9 @@
       "id": "6425b3384037240b8ba3193f",
       "author": "Elvis Blevins",
       "avatar": "https://media.licdn.com/dms/image/D5603AQGeyTQsgNtyyg/profile-displayphoto-shrink_800_800/0/1670772815652?e=1685577600&v=beta&t=oFG6FFJUtIsX1eI5nOKRwKm-JjOD38y7uNOhz_46Z7M",
-      "title": "Introduction to ChatGPT",
+      "title": "Everything You Need to Know About ChatGPT",
       "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-      "readTime": 11,
+      "readTime": 5,
       "date": "Mon Feb 27 2023",
       "tags": [
          "#chatGPT",
@@ -42,13 +42,13 @@
       "id": "6425b338f53f71513bc8befe",
       "author": "Rosemary",
       "avatar": "https://media.licdn.com/dms/image/D5603AQGeyTQsgNtyyg/profile-displayphoto-shrink_800_800/0/1670772815652?e=1685577600&v=beta&t=oFG6FFJUtIsX1eI5nOKRwKm-JjOD38y7uNOhz_46Z7M",
-      "title": "Introduction to Machine Learning 4",
+      "title": "The Ultimate React Native Course: Advanced Concepts",
       "image": "https://images.unsplash.com/photo-1485856407642-7f9ba0268b51?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-      "readTime": 13,
+      "readTime": 4,
       "date": "Sat Jan 28 2023 ",
       "tags": [
-         "#machine learning",
-         "#artificial intelligence"
+         "#reactNative",
+         "#mobileApplication"
       ]
    }
 ]

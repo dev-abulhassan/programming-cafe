@@ -27,7 +27,7 @@ const News = (props) => {
       else {
          const addBookmark = [...bookmark, title]
 
-         console.log(addBookmark)
+         // console.log(addBookmark)
          setBookmark(addBookmark)
          toast.success('WoW! News Bookmark i successfully')
       }

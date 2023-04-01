@@ -9,7 +9,8 @@ const Bookmark = (props) => {
             <h2 className='text-center text-lg font-semibold font-primary '>Spent time on read : {props.countTime} min</h2>
          </div>
          <div className="py-3 text-center rounded bg-gray-200 ">
-            <p>Bookmark News: {props.bookmark.length}</p>
+            <p>Bookmark News Item: {props.bookmark.length}</p>
+
             <div className=' px-5 '>
                {
                   props.bookmark?.map((item, id) =>

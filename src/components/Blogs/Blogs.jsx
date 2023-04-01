@@ -16,26 +16,28 @@ const Blogs = () => {
 
 
    return (
-      <div className='container mx-auto md:flex gap-6 px-4'>
-         <div className='md:w-[65%]'>
-            {
-               blogs.map(blog => <News
-                  key={blog.id}
-                  blog={blog}
-                  setCountTime={setCountTime}
+      <>
+         <div className='container mx-auto md:flex gap-6 px-4'>
+            <div className='md:w-[65%]'>
+               {
+                  blogs.map(blog => <News
+                     key={blog.id}
+                     blog={blog}
+                     setCountTime={setCountTime}
+                     countTime={countTime}
+                     bookmark={bookmark}
+                     setBookmark={setBookmark}
+                  ></News>)
+               }
+            </div>
+            <div className='bookmark md:w-[35%]'>
+               <Bookmark
                   countTime={countTime}
                   bookmark={bookmark}
-                  setBookmark={setBookmark}
-               ></News>)
-            }
+               ></Bookmark>
+            </div>
          </div>
-         <div className='bookmark md:w-[35%]'>
-            <Bookmark 
-            countTime={countTime}
-            bookmark={bookmark}
-            ></Bookmark>
-         </div>
-      </div>
+      </>
 
    );
 };

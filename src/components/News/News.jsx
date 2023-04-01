@@ -29,7 +29,7 @@ const News = (props) => {
 
          console.log(addBookmark)
          setBookmark(addBookmark)
-         toast.success('WoW! News Bookmark i ssuccessfully')
+         toast.success('WoW! News Bookmark i successfully')
       }
 
 
